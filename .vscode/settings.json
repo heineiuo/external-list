@@ -1,0 +1,14 @@
+{
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "javascript.validate.enable": false,
+  "standard.autoFixOnSave": true,
+  "standard.options": {
+    "globals": [
+    ],
+    "ignore": [
+      "__tests__",
+      "tests"
+    ]
+  }
+}
